@@ -1,0 +1,6 @@
+framework module Pods_telmUITests {
+  umbrella header "Pods-telmUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
